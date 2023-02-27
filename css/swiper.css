@@ -1,0 +1,42 @@
+.swiper {
+    width: auto;
+
+    z-index: 1;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 70px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+}
+
+.swiper-slide img {
+    width: 300px;
+    color: aqua;
+    object-fit: cover;
+}
+
+.swiper-button-next,
+.swiper-rtl .swiper-button-prev {
+    right: 20px !important;
+    left: auto;
+}
+
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+    left: 20px !important;
+    right: auto;
+}
+
+.swiper_text {
+    color: white;
+    padding: 20px;
+}
+
+.swiper {
+    font-family: 'Philosopher', sans-serif;
+}

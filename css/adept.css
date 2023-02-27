@@ -1,0 +1,11 @@
+@media screen and (min-width: 803px) {
+    .lol {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 803px) {
+    .header {
+        display: none;
+    }
+}

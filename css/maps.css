@@ -1,0 +1,14 @@
+.maps {
+
+    padding: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.maps h1 {
+    margin: 0 auto;
+    text-align: center;
+    width: auto;
+    color: white;
+    padding: 10px;
+}
